@@ -2,7 +2,7 @@ repo_name: hamzatrq/like-component-angular-2
 report_id: 6776e4cf28dec0996d17202f40a74040
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T17:58:34+00:00'
+timestamp: '2024-01-05T08:11:12+00:00'
 requested_by: hamzatrq
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/hamzatrq/like-component-angular-2/blob/master/package.json
   detection_source: package.json
   last_updated_by: Hamza Tariq
   last_updated_on: 2016-05-26 20:09:09.000000000 Z
@@ -29,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/hamzatrq/like-component-angular-2
   detection_source: Repo Metadata
 - name: Bootstrap
   description: Simple and flexible HTML, CSS, and JS for popular UI components and
@@ -66,6 +68,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hamzatrq/like-component-angular-2
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -75,6 +78,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/hamzatrq/like-component-angular-2/blob/master/package.json
   detection_source: package.json
   last_updated_by: Hamza Tariq
   last_updated_on: 2016-05-26 20:09:09.000000000 Z
